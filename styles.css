@@ -1,0 +1,102 @@
+/* Initial body */
+body {
+    left: 0;
+    margin: 0;
+    background-image: url('images/lightpaperfibers.png');
+    position: relative;
+}
+
+#resume, .content-temp {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+}
+
+
+.name {
+    padding-top: 50px;
+    border-bottom: 1px solid #111111;
+    text-align: right;
+}
+
+.name h1 {
+    font-family: 'Shift', sans-serif;
+    font-size: 50px;
+    color: #111111;
+}
+
+.intro {
+    margin: auto;
+    width: 600px;
+
+}
+
+.clear {
+    float: none;
+    clear: both;
+    height: 20px;
+    width: 575px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0 26px 0 0;
+    width: 150px;
+    height: 100px;
+    float: left;
+    border-right: 1px solid #111111;
+    list-style-type: none;
+}
+
+#cert {
+    height: 50px;
+}
+
+.content {
+    font-family: 'Open Sans', sans-serif;
+    width: 600px;
+    float: right;
+}
+
+.content p {
+    font-weight: bold;
+}
+
+.alignright {
+    float: right;
+}
+.alignleft {
+    float: left;
+}
+
+.job-clear {
+    float: none;
+    clear: both;
+    height: 1px;
+    width: 500px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#header {
+    text-align: center;
+    font-family: 'Shift', sans-serif;
+}
+
+
+.contact-body {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+}
+
+.divider {
+    border-bottom: 1px solid black;
+}
